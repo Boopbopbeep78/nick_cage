@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-size:100px;
+}
+article {
+text-align: center
+}
+
+nav {
+    border: solid white 1.5px;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    border: solid teal .5px;
+    display: inline;
+    padding: 5 px;
+    margin: 50 px;
+}
+h1 {
+    color:tomato;
+
+article {
+    text-align: center;
+    color:green;
+}
+p {
+    color: green;
+}
+footer {
+    text-align: center;
+}
