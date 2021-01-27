@@ -19,6 +19,7 @@ ul {
 }
 
 li {
+    color: white;
     border: solid teal .5px;
     display: inline;
     padding: 5 px;
