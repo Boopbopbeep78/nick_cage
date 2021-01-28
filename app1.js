@@ -1,0 +1,1 @@
+ document.write('<h2>Nick Cage is a very strange guy!</h2>');
