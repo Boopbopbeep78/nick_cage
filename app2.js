@@ -36,7 +36,7 @@ function guessingGame(){
 
 function askUserQuestion(){
     let userAnswer = -1
-    while(userAnswer < 1 || userAnswer > 100){
+    while(userAnswer < 1 || userAnswer > 111){
         userAnswer = prompt('How many movies has Nick Cage been in?');
     }
     return userAnswer;
